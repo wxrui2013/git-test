@@ -1,1 +1,5 @@
-# test the conflict  6789
+<<<<<<< HEAD
+# test the conflict  2345 
+=======
+# test the conflict  2345
+>>>>>>> feature
